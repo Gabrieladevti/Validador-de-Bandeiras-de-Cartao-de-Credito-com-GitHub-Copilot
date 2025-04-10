@@ -35,18 +35,3 @@ open index.html
 ```
 
 Ou apenas **abra o arquivo `index.html`** em seu navegador.
-
-## 🌐 Deploy
-
-Você pode visualizar o projeto hospedado via GitHub Pages:
-👉 [seu-usuario.github.io/credit-card-validator](https://seu-usuario.github.io/credit-card-validator)
-
-(Ative o GitHub Pages na aba de settings do repositório)
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Feito com 💻 + ⚡ Copilot
